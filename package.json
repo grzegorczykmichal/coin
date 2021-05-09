@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "CHOKIDAR_USEPOLLING=true vite"
+    "dev": "CHOKIDAR_USEPOLLING=true vite",
+    "build": "vite build"
   },
   "dependencies": {
     "axios": "^0.21.1",
