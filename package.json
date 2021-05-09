@@ -1,0 +1,13 @@
+{
+  "name": "biannce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "CHOKIDAR_USEPOLLING=true vite"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vite": "^2.2.4"
+  }
+}
